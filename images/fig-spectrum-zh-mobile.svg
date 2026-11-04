@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 520" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>光譜三階：卸載、順從依賴、投降</title>
+<desc>三列由上而下，赤陶橘色條的長度依序縮短，代表人對結果的所有權逐步減少。</desc>
+<rect width="430" height="520" fill="#f9f7f4"/>
+<text x="24" y="40" font-size="24" fill="#8a857d">你握著結果</text>
+<text x="406" y="40" font-size="24" fill="#8a857d" text-anchor="end">結果不再由你掌握</text>
+<text x="24" y="100" font-size="32" font-weight="700" fill="#1a1a1a">卸載</text>
+<rect x="24" y="118" width="382" height="26" rx="13" fill="#e6e2db"/>
+<rect x="24" y="118" width="382" height="26" rx="13" fill="#c45f3d"/>
+<text x="24" y="178" font-size="24" fill="#1a1a1a">交給 AI，結果仍歸你負責</text>
+<text x="24" y="248" font-size="32" font-weight="700" fill="#1a1a1a">順從依賴</text>
+<rect x="24" y="266" width="382" height="26" rx="13" fill="#e6e2db"/>
+<rect x="24" y="266" width="210" height="26" rx="13" fill="#c45f3d"/>
+<text x="24" y="326" font-size="24" fill="#1a1a1a">輸出變成你的新輸入</text>
+<text x="24" y="396" font-size="32" font-weight="700" fill="#1a1a1a">投降</text>
+<rect x="24" y="414" width="382" height="26" rx="13" fill="#e6e2db"/>
+<rect x="24" y="414" width="57" height="26" rx="13" fill="#c45f3d"/>
+<text x="24" y="474" font-size="24" fill="#1a1a1a">輸出悄悄變成自己的，覺得不必查</text>
+</svg>
